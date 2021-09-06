@@ -1,2 +1,2 @@
 # ejemplo_chat
-chat usando Dode.js y Socket.io
+chat usando Node.js y Socket.io
