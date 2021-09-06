@@ -1,0 +1,26 @@
+{
+  "name": "ejemplo_chat",
+  "version": "1.0.0",
+  "description": "chat usando Dode.js y Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeideravilapadilla/ejemplo_chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeideravilapadilla/ejemplo_chat/issues"
+  },
+  "homepage": "https://github.com/jeideravilapadilla/ejemplo_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.2.0"
+  }
+}
